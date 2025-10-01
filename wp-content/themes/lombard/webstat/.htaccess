@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/lombard-rf.kz/webstat"
+AuthUserFile /home/user16172/data/etc/3260446.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
