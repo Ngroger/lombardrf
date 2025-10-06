@@ -13,7 +13,7 @@
 🧩 2. Скачивание сайта с GitHub
 
 Зайти на GitHub → открыть нужный репозиторий.
-Пример: https://github.com/username/lombard-rf
+Пример: https://github.com/Ngroger/lombardrf.git
 
 Нажать зелёную кнопку Code → Download ZIP.
 
